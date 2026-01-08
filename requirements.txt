@@ -1,8 +1,6 @@
-streamlit
-scikit-learn
-pandas
-numpy
-sentence-transformers
-lightgbm
-catboost
-joblib
+streamlit>=1.30
+numpy>=1.24
+joblib>=1.3
+sentence-transformers>=2.2.2
+torch
+transformers
