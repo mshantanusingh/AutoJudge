@@ -6,11 +6,11 @@ This project focuses on automating the estimation of difficulty levels for compe
 Traditionally, difficulty is determined subjectively by problem setters. This project leverages Machine Learning and Natural Language Processing (NLP) to predict difficulty based on the problem's text description, providing a data-driven classification.
 
 ### **Files Overview**
-* Web UI source code: app.py
-* Model Evaluation source code: Python Source Code for model evaluation.py
-* NoteBook of model evaluation: Jupyter notebook2.ipynb
-* Classificiation model: clf_model.pkl
-* Regression model: reg_model.pkl
+* Web UI source code: **app.py**
+* Model Evaluation source code: **Python Source Code for model evaluation.py**
+* NoteBook of model evaluation: **Jupyter notebook2.ipynb**
+* Classificiation model: **clf_model.pkl**
+* Regression model: **reg_model.pkl**
 
 ## 2. Dataset Used
 * **Source:** This project uses TaskComplexity dataset. A novel dataset containing a total of 4,112 programming tasks was created by systematically extracting tasks from various websites using web scraping techniques.
